@@ -1,12 +1,10 @@
-### Hi there, I'm Matthew Aitchison 👋
-
-## I'm a Data Scientist
+## Hi there, I'm Matthew Aitchison 👋
 
 - 🎓    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a recent graduate from the University of Exeter
 - 📊    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mathematics Bsc | Applied Data Science and Statistics Msc
 - 👔    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m currently looking for a data science role
 - 🧠    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm proficient in Python, R and Excel
-- 🚀    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developing an understanding working with SQL
+- 🚀    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developing an understanding of SQL
 - 🥅    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021 Goals: Contribute more to Kaggle Projects
 - 🏋🏻    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm passionate about working out
 
@@ -19,23 +17,33 @@
 [<img align="left" alt="MWAitchison | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MWAitchison | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 
 ### Languages and Tools
 
 <br />
 
-[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg" />]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />]
-[<img align="left" alt="Excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" />]
-
+<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
+<img align="left" alt="Excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" />
 
 <br />
-<br />
+
 
 ---
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MWAitchison)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MWAitchison)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MWAitchison)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MWAitchison)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MWAitchison&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MWAitchison&repo=convoychat" />
+</a>
+
+
 
 
 [website]: https://mwaitchison.github.io/
