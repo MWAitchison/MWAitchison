@@ -23,9 +23,9 @@
 
 <br />
 
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-<img align="left" alt="Excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" />
+[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg" />][R]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][Python]
+[<img align="left" alt="Excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" />][Excel]
 
 <br />
 
@@ -37,10 +37,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MWAitchison&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MWAitchison)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MWAitchison&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MWAitchison" />
 </a>
 
 
@@ -51,4 +51,6 @@
 [twitter]: https://twitter.com/MWAitchison
 [instagram]: https://www.instagram.com/matthewaitchison/
 [linkedin]: https://www.linkedin.com/in/mwaitchison/
-
+[R]: https://www.r-project.org/
+[Python]: https://www.python.org/
+[Excel]: https://office.live.com/start/excel.aspx
