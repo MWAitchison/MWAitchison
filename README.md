@@ -9,6 +9,8 @@
 - 🚀    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developing an understanding working with SQL
 - 🥅    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021 Goals: Contribute more to Kaggle Projects
 - 🏋🏻    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm passionate about working out
+
+
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -18,10 +20,13 @@
 [<img align="left" alt="MWAitchison | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
+### Languages and Tools
 
 <br />
 
-### Languages and Tools:
+[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg" />]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />]
+[<img align="left" alt="Excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" />]
 
 
 <br />
@@ -30,6 +35,7 @@
 ---
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MWAitchison)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MWAitchison)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://mwaitchison.github.io/
