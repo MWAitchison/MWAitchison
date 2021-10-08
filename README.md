@@ -2,13 +2,13 @@
 
 ## I'm a Data Scientist
 
-- 🎓    I am a recent graduate from the University of Exeter
-- 📊    Mathematics Bsc | Applied Data Science and Statistics Msc
-- 👔    I’m currently looking for a data science role
-- 🧠    I'm proficient in Python, R and Excel
-- 🚀    Developing an understanding working with SQL
-- 🥅    2021 Goals: Contribute more to Kaggle Projects
-- 🏋🏻    I'm passionate about working out
+- 🎓    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a recent graduate from the University of Exeter
+- 📊    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mathematics Bsc | Applied Data Science and Statistics Msc
+- 👔    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m currently looking for a data science role
+- 🧠    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm proficient in Python, R and Excel
+- 🚀    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developing an understanding working with SQL
+- 🥅    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021 Goals: Contribute more to Kaggle Projects
+- 🏋🏻    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm passionate about working out
 ### Connect with me:
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
