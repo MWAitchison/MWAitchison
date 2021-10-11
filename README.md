@@ -19,7 +19,11 @@
 
 <br />
 
-### Languages and Tools
+### Skills and Experience
+
+* R
+* Python
+* Excel
 
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg" />][R]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][Python]
